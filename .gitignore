@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+/venv/
+
+*.sublime-project
+*.sublime-workspace
+*.todo
+
+dist/
+build/
+*.spec
